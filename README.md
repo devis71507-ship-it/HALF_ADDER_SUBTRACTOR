@@ -85,3 +85,4 @@ half subtractor
 
 
 **Result:**
+Thus the a half adder and half subtractor circuit is designed and its truth table is verified in Quartus using Verilog programming .
